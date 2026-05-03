@@ -1,0 +1,18 @@
+{
+    "name": "PhysicsTankMaker.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5ca1e218767c92d46ac66b0ca1dd151a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "Editor"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
