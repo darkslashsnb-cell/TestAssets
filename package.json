@@ -1,0 +1,7 @@
+{
+  "name": "com.eightyfive.testassets",
+  "version": "1.0.0",
+  "displayName": "Project Test Assets",
+  "description": "Центральное хранилище ресурсов. Используйте Prefab Variants для правок.",
+  "unity": "2022.3"
+}
