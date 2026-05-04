@@ -1,7 +1,7 @@
 {
-  "name": "com.eightyfive.testassets",
+  "name": "com.eightyfive.alberts-tanks-assets",
   "version": "1.0.0",
-  "displayName": "Project Test Assets",
-  "description": "Albert tank assetleri",
+  "displayName": "Alberts Tanks Template və Assetlər",
+  "description": "Assetlər və template ilə işləmə qaydaları README.md faylında qeyd olunub.",
   "unity": "2022.3"
 }
